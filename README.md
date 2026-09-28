@@ -10,3 +10,9 @@ The user was asked to enter a number between 0 and 10 and which never number he 
 ##Exercise 2.3(g) in Chapter 2 of C HOW TO PROGRAM
 Concepts used- Printf statement
 The program simply displays text in the printf() where \n was used to add a new line character.
+ 3.DECISIONS
+##Exercise 3.13 in Chapter 3 of C HOW TO PROGRAM
+Concepts used-printf statement
+             -Scanf statement
+             -if and else
+             -Variables
